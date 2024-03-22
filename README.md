@@ -25,4 +25,4 @@ Tôi là một nhà phát triển phần mềm có kinh nghiệm trong việc ph
 - Chơi game
 - Nghe nhạc
 #
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.pinimg.com/750x/fb/be/d1/fbbed16b5277ac4d4fd05e8d1da8419e.jpg?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
